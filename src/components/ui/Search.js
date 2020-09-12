@@ -20,6 +20,7 @@ const Search = ({ getQuery }) => {
           autoFocus
         />
       </form>
+      
     </section>
   )
 }
